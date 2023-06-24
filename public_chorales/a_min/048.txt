@@ -1,0 +1,23 @@
+M: 4/4
+K: a
+M1: [ACEA] [G#BEB] [AAEC] [AAEC] |
+M2: [AAEC] [GBGD] [CCGE] [CCGE] |
+M3: [(C,D)(C,B)GE] [(A,G)(C,B)CE] [(F#,G#)(A,B)(C,B)D] [A(C,E)(B,A)C] |
+M4: [DFAB] [E(E,D)G#(B,A)] [AC#EA]2 |
+M5: [(A,B)(C#,D)AE] [(C#,A)(E,C#)AE] [D(D,C)AF] [(B♭,A)DB♭F] |
+M6: [(G,E)DB♭E] [AC#(A,G)E] [DD(G,E)D] [DAF#D] |
+M7: [(G,A)(B,C)GD] [(B,G)(D,B)GD] [C(C,B)GE] [(A,G)CAE] |
+M8: [(F,D)CAD] [GB(G,F)D] [CC(F,D)C] [CGEC] |
+M9: [FAFC] [(E,D)AFD] [(G#,E)BEE] [AAE(D,C)] |
+M10: [D#AF#B] [EG#(E,D)B] [AA(D,B)A] [AEC#A] |
+---
+M1: i V6 i i
+M2: i V/III III III
+M3: III i (V7/VII vii°) i
+M4: iiø65 (V V7) (d)[I=V]
+M5: V (V6 V) i VI
+M6: (iiø65 iiø7) (V V7) isus4 (C)[I=V/V]
+M7: V (V6 V) I vi
+M8: (ii65 ii7) (V V7) isus4 I
+M9: (a)[IV=VI] iv (V6 V) i
+M10: V65/V (V V7) Isus4 I

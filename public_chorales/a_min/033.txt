@@ -1,0 +1,21 @@
+M: 4/4
+K: a
+M1: [(A,B)(C,B)(E,D)A] [(C,D)AC(E,F#)] [(E,E)EBG#] [F#(D,C)AA] |
+M2: [(G#,E)(B,G#)E(B,(C,D))] [(A,D)A(E,F)(C,B)] [(E,E)(A,G#)EB] [ACEA] |
+M3: [(A,A)E(A,G)C] [(A,G#)D(F,E)B] [(A,F)C(E,A)A] [(D,E)(F,E)(A,G#)B] |
+M4: [(A,G)(E,A)(A,E)C] [F(A,(G#,A))(A,(B,A))D] [EBG#E]2 |
+M5: [(A,A)CAE] [(G,F)DAF] [E(D,C)GG] [(F,E)C(A,G)C] |
+M6: [D(C,B)(A,D)F] [(E,F)CGE] [(G,G)(C,B)(G,(G,F))D] [CGEC] |
+M7: [(G,F)(B,D)(G,A)D] [(E,D)(G,F)BD] [(C,D)E(B,G#)E] [(C,B)(E,D)(A,G)A] |
+M8: [(A,G#)(C,B)(F,E)D] [(A,D)A(E,F)(C,B)] [EAEB] [EG#(E,D)B] |
+M9: [AEC#A]3 |
+---
+M1: i (i6 IV) V7 (V6/III V65/III)
+M2: V7 (i iiø65) Vsus43 i
+M3: i (iiø42 V65) (i VI) (iiø65 V)
+M4: i iv6 V
+M5: (C)[i=vi] ii6 I6sus76 IV
+M6: i I64 Vsus43 I
+M7: V/III vii°6/III (a)V42 i6
+M8: (iv43 V65) (i iiø65) V (V V7)
+M9: I

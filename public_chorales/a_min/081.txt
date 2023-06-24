@@ -1,0 +1,37 @@
+M: 4/4
+K: a
+M1: [EBG#E] [EBG#E] [ACAE] [G(B,C)BE] |
+M2: [F(D,E)AD] [(E,D)FAC] [EBG#B]2 |
+M3: [AA(E,F#)C] [GB♭GD] [C#B♭GE] [C#A(F,E)E] |
+M4: [DAFD] [AAEC] [EG#EB]2 |
+M5: [ACEA] [G#BEB] [A(A,B)EC] [F(C,D)FA] |
+M6: [C#EE(A,G)] [DADF] [AAC#E]2 |
+M7: [DADF] [CCEG] [FCE♭A] [F#CDA] |
+M8: [G(B♭,C)DG] [G#DDF] [AAC#E]2 |
+M9: [FADA] [(E,D)BEG#] [CCEA] [BD(F#,G#)B] |
+M10: [AEAC] [(B,C)DGB] [DDF#A]2 |
+M11: [E♭CGC] [DB♭GD] [C#AGE] [(D,E)AFE] |
+M12: [(F,G)(A,B)FD] [AC(E,F#)C] [GDGB]2 |
+M13: [F#(D,C)AA] [G#BEB] [A(A,B)EC] [(A,B)(C,D)EA] |
+M14: [C#EA(A,G)] [DADF] [AAC#E]2 |
+M15: [DADF] [CCEG] [(F,G)CFA] [(A,B)CFA] |
+M16: [C(C,B)EG] [DADF] [EG#DE] [EACE] |
+M17: [EG#BE]4 |
+---
+M1: V V i v6
+M2: iv6 iv7 V
+M3: i iv/iv vii°7/iv V6/iv
+M4: iv i V
+M5: i V6 i (d)[VI=III]
+M6: (V6 V65) i V
+M7: i V/III V7/VI V65/iv
+M8: iv vii°7/V V
+M9: (a)[i6=iv6] (V V42) i vii°6
+M10: i VII6 V/VII
+M11: iii6 vii64 V65/iv iv9
+M12: iv6 i VII
+M13: (V6/VII V65/VII) V6 i i
+M14: V6/iv iv V
+M15: iv V/VI VI VI6
+M16: III iv V7 i64
+M17: V

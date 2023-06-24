@@ -1,0 +1,29 @@
+M: 4/4
+K: G
+M1: [GBDG] [DF#DA] [G(G,F#)DB] [AE(D,C#)A] |
+M2: [(B,C#)(D,E)BG] [D(F#,(F#,G))(A,D)F#] [A(A,E)(D,C#)E] [DF#DD] |
+M3: [EGBG] [(D,C)F#DA] [(B,A)GDB] [(G,F#)ADC] |
+M4: [G(A,G)DB] [D(G,F#)DA] [GBDG]2 |
+M5: [(G,F#)DGB] [EEGC] [D(A,B)F#D] [AC(E,F#)C] |
+M6: [(B,C)DGB] [DDF#A] [GDGB]2 |
+M7: [(G,A)BGD] [(B,G)BGD] [(C,B)CGE] [(C,D)AF#D] |
+M8: [(E,F#)GEC] [GGDB] [DF#DA]2 |
+M9: [(G,A)GD(B,C)] [GB(G,F)D] [A(B,A)EC] [B(A,G)DB] |
+M10: [C(G,F#)(E,D#)G] [C(E,F#)EA] [B(G,(F#,E))(E,(D#,C#))B] [BF#D#B] |
+M11: [EEBG]2 [(E,D)GEB] [(C,B)GFD] |
+M12: [(C,D)GEC] [(E,D)G(B,C)B] [(C,B)F#DA] [(A,G)GDB] |
+M13: [D(G,(F#,E))DA] [DF#DA] [GBDG]2 |
+---
+M1: I V I Vsus43/V
+M2: (I6 viiø7/V) V Vsus43/V V
+M3: vi V I6 V65
+M4: I Vsus43 I
+M5: I IV6 V (ii vii°6)
+M6: I6 V I
+M7: I (I6 I) IV V
+M8: IV6 I V
+M9: I (V/IV V7/IV) iisus98 I6sus76
+M10: IV IV (vi iii) iii
+M11: vi vi V65/IV
+M12: IV iii V42 I
+M13: Vsus43 V I

@@ -1,0 +1,29 @@
+M: 4/4
+K: d
+M1: [D(D,C)FA] |
+M2: [DB(F,E)G#] [(C,B)(C,D)(E,G#)(A,B)] [(A,A)EAC] [(A,G#)(F,E)BD] |
+M3: [(A,F)(E,F)(B,A)C] [(D,E)(F,(E,D))(A,G#)B] [AC#EA] [C#AEA] |
+M4: [(D,F)A(E,D)F] [(E,D)B♭(C#,D)G] [(C#,A)AEA] [DA(E,D)(G,F)] |
+M5: [A(A,F)(C#,D)(E,D)] [A(G,E)(D,C#)E] [DFAD] |
+M7: [D(F,G)A(D,E)] [(D,C)ADF] [(B♭,A)(G,A)(D,C)G] [GB♭(B♭,C)(D,E)] |
+M8: [(D,C)(A,F)(D,A)F] [(B♭,C)(F,E)(D,C)G] [FFCA] [(F,E)C(F,G)A] |
+M9: [DF(A,B♭)D] [EG(B♭,A)C#] [F#(D,C)AD] [G#BE(E,D)] |
+M10: [(A,F)(B,A)(E,F)C] [(D,E)(A,G#)(F,E)B] [ACEA] [DDFB] |
+M11: [C(G,C)(F,E)C] [(F,G)CF(A,B♭)] [(A,B♭)(C,D)FC] [(C,B♭)(E,D)EG] |
+M12: [(A,F)(C#,A)(E,D)F] [(G,A)(B♭,(A,G))(C#,D)E] [B♭FDD]2 |
+M13: [F#(A,C)DA] [GB♭(D,E)G] [AA(C#,D)F] [AG(D,C#)E] |
+M14: [DGAD] [D(F#,E)AD] [DF#AD]2 |
+---
+M1: (a)[i=iv]
+M2: (vii°43 V42) (i6 vii°6) i (iiø42 vii°43)
+M3: VIret23sus43 (iiø65 V) i (d)V6
+M4: (i i6) (vii°43 iv64) (V6 V) i
+M5: (V i64) V7 i
+M7: i i iv6 iv
+M8: (i VI64) (iv6 V/VI) VI VI
+M9: (a)[vi=iv] vii°65/iv IV6 V6
+M10: VIret23sus43 (ii°65 V) i ii°
+M11: V/VI (d)[VI=III] III6 VII
+M12: (V I6) (vii°65 V) VI
+M13: V6/iv iv i64 V7
+M14: i

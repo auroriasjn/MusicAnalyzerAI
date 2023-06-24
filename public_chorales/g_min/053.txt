@@ -1,0 +1,35 @@
+M: 3/4
+K: g
+M1: [(G,A)B♭DG] [B♭D(G,A)G] [(A,G)DB♭G] |
+M2: [F#DAD] [F#DA(D,C)] [G(D,C)GB♭] |
+M3: [B♭B♭GD] [ACF#C] [GDGB♭] |
+M4: [DDF#A]3 |
+M5: [B♭D(G,A)D] [(A,G)GB♭D] [C#GB♭E] |
+M6: [DFAF] [DBAF] [EC#GE] |
+M7: [(F,G)DFD] [AAEC#] [AAEC#] |
+M8: [DAF#D]3 |
+M9: [GB♭GD] [GAE♭C] [F#ADA] |
+M10: [GGDB♭] [(G,A)E♭G(B♭,C)] [B♭DFD] |
+M11: [E♭E♭GC] [FDFB♭] [FCFA] |
+M12: [B♭DFB♭]3 |
+M13: [B♭DB♭F] [E♭CB♭G] [FCAF] |
+M14: [F#AAD] [F#DA(D,C)] [GDGB♭] |
+M15: [CCE♭A] [DB♭DG] [DADF#] |
+M16: [GBDG]3 |
+---
+M1: i i6 i
+M2: V6 (V6 V65) i
+M3: i6 vii°6 i
+M4: V
+M5: i6 i vii°7/v
+M6: v viiø65/iv vii°6/V
+M7: v6 V/V V/V
+M8: V
+M9: i iiø42 V6
+M10: i (VI6 iiø7) III
+M11: IV6 III64 V/III
+M12: III
+M13: III VI VII
+M14: V6 (V6 V65) i
+M15: ii°6 i64 V
+M16: I

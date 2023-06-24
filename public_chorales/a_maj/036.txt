@@ -1,0 +1,33 @@
+M: 4/4
+K: A
+M1: [AC#EA] |
+M2: [(G#,F#)(B,A)EB] [(E,D)G#EB] [C#AEA] [DA(D,C#)F#] |
+M3: [DG#BE] [(C#,B)(A,B)(C#,D)(F#,G#)] [(C#,A)(E,A)EA] [E(A,G#)EB] |
+M4: [AC#EA]3 [AEA(C#,D)] |
+M5: [G#E(B,C#)E] [F#A(D,C#)F#] [G#BBE] [A(C#,D)AC#] |
+M6: [C#EAA] [(D,E)AD(F#,G#)] [(F#,A)AC#A] [(D,E)(A,G#)(F#,E)B] |
+M7: [AEC#A]2 [(A,G#)EAC#] [(F#,E#)G#BC#] |
+M8: [(F#,E)F#(A,G#)C#] [D(F#,G#)F#B] [C#AF#C#] [C#G#E#C#] |
+M9: [F#F#C#A]2 [] [F#C#F#A] |
+M10: [(E,D)EG#B] [(C#,B)EG#B] [AE(A,F#)C#] [AEGC#] |
+M11: [DDF#A]2 [B(D,C#)F#B] [EBG#B] |
+M12: [A(A,C#)(A,G#)(C#,B)] [(B,C#)(D,E)(F#,E)(A,G#)] [DADF#] [B(G#,F#)DB] |
+M13: [C#E(C#,G#)B] [(D#,E)(F#,G#)(F#,E)(A,G#)] [AC#EF#] [B(B,A)D#F#] |
+M14: [EG#BE]2 [DADF#] [(C#,B)BDG#] |
+M15: [(C#,A)(E,A)EA] [E(A,G#)(E,D)B] [AEC#A] |
+---
+M1: I
+M2: V6 (V V42) I6 IV
+M3: V42 (vi6 V43) (I6 I) Vsus43
+M4: I I
+M5: V IV V I
+M6: I6 (IV V7sus4) (vi vi6) (iiø65 V)
+M7: I I (I V65/vi)
+M8: vi iiø65 vi64 V/vi
+M9: vi vi
+M10: (V V42) V64 (I vi6) V7/IV
+M11: IV i
+M12: I (iiø7 iii) IV vii°6
+M13: iii7 (vii°/V V) vi65 (V/V V7/V)
+M14: V IV vii°6
+M15: (I6 I) (V V7) I

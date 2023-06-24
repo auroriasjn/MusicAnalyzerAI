@@ -1,0 +1,41 @@
+M: 4/4
+K: G
+M1: [GBGD] |
+M2: [C(C,B)GE] [DAF#(D,C)] [EEG(B,C)] [(F#,G)(A,B)F#D] |
+M3: [A(C,E)(E,G)(C,B)] [DD(G,F#)C] [GDGB] [F#DAA] |
+M4: [(G,F#)DGB] [E(G,A)GC] [B(B,G)GD] [CEG(C,B)] |
+M5: [D(A,B)G(A,G)] [DCF#A] [GBDG] |
+M6: [GBDG] |
+M7: [F#A(D,E)A] [(E,D)DF#B] [EGE(C,B)] [F#A(E,D)A] |
+M8: [G(A,G)DB] [D(G,F#)CA] [GGBG] [CGE(G,A)] |
+M9: [G(G,F)DB] [(E,D)GEC] [(C,B)GFD] [(C,D)G(E,F#)E] |
+M10: [E(G,(A,B))(G,F#)B] [AA(G,A)C#] [DAF#D] [G(G,A)D(B,C)] |
+M11: [B(G,D)GD] [(C,B)CGE] [F#AA(D,C)] [G#EBB] |
+M12: [AE(B,G#)C] [AEAC] [EEG#B] [G#(E,D)BE] |
+M13: [(A,B)(C,B)AE] [(C,A)A(E,C)E] [F(A,G#)(D,E)A] [(E,D)(A,B)FD] |
+M14: [E(G#,A)EC] [E(A,G#)DB] [AACA] [A(E,F#)AC] |
+M15: [(B,C#)G(D,E)B] [D(D,C)FA] [DB♭(E,D)G] [C#AE(A,G)] |
+M16: [DA(E,D)F] [AG(D,C#)E] [DF#DD] [BF#(D,C)D] |
+M17: [EG(B,A)G] [DD(G,F#)A] [G(G,F#)DB] [EEG(B,C)] |
+M18: [(B,A)DF#D] [GDG(C,B)] [(C,B)(E,D)GA] [ACG(B,C)] |
+M19: [(D,C)(D,E)GA] [D(D,C)F#A] [GBDG] |
+---
+M1: I
+M2: IV (V V7) vi (V6 I7)
+M3: (ii ii7) Vsus43 I V6
+M4: I Iv6 I6 IV
+M5: V7sus43 I
+M6: I
+M7: V6 iii6sus23 IV6 V6sus76
+M8: Isus21 Vsus43 I IV
+M9: (I V42/IV) IV6 V65/IV IV
+M10: vi V7/V V I
+M11: I IV V65 (a)V6
+M12: i i V V65
+M13: i (i6 i) VI iv
+M14: i64 V7sus43 i i
+M15: (d)(iv6 viiø7) I iiø42 V65
+M16: isus98 V7sus43 (G)[I=V] I6
+M17: vi V I IVret56
+M18: I6 I ii65 ii7
+M19: Vsus43 I

@@ -1,0 +1,22 @@
+M: 4/4
+K: F
+M1: [FACF] |
+M2: [FCFA] [ECGG] [E♭CFA] [DDFB♭] |
+M3: [(C,D)G(E,F)C] [(E,C)C(G,E)C] [FCFA] [B♭B♭FD] |
+M4: [ACFC] [G(D,B♭)(F,E)B♭] [(F,A)CFA] [CC(F,E)G] |
+M5: [FCFA]2 [] [FFAC] |
+M6: [BF(A,G)D] [CE(G,(C,D))E] [(D,F)(E,D)AF] [(A,G)CAE] |
+M7: [(F,D)CAD] [GBGD] [CEGC] [FCFA] |
+M8: [GB♭(F,E)B♭] [ACFA] [B♭DFG] [C(C,(C,B♭))EG] |
+M9: [FACF]3 |
+---
+M1: I
+M2: I V6 V42/IV IV6
+M3: V I6 I Iv
+M4: I6 (ii7 vii°6) I
+M5: I I
+M6: (viiø7/IV V6/IV) IV vi iii
+M7: vi V6/IV IV I
+M8: (ii7 vii°6) I6 ii42 (V V7)
+M9: I
+

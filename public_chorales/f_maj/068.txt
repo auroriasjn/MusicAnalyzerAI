@@ -1,0 +1,24 @@
+M: 4/4
+K: F
+M1: [(F,E)(A,G)CF] |
+M2: [DF(C,B)F] [(E,C)(C,B♭)CG] [F(A,B♭)(C,D)A] [CCE(G,A)] |
+M3: [(D,E)(F,C)(F,G)B♭] [FC(G,F)A] [B♭(D,B♭)(F,(E,D))G] [C(G,(C,B♭))E(G,G)] |
+M4: [FACF]2 [] [(F,E♭)CFA] |
+M5: [(D,E)(D,C)(F,G)B♭] [FC(G,F)A] [(B,C)(D,C)(F,E)G] [D(C,B)DF] |
+M6: [(C,B♭)CGE] [(A,F)FCF] [CECG] [AA(E,F#)C] |
+M7: [G(D,C#)(G,E)B♭] [(D,C)D(F,E)A] [BGD(G,F)] [CG(D,C)E] |
+M8: [FA(C,(D,C))F] [G(G,F)BD] [CEGC] [FC(F,E♭)A] |
+M9: [GB♭(D,E)B♭] [(A,B♭)CFA] [C(C,(C,B♭))(F,E)G] [D(A,B♭)(E,(D,E))F] |
+M10: [(A,B♭)CFA] [C(C,(C,B♭))(F,E)G] [FACF] |
+---
+M1: I
+M2: vii°6/V (V6 V7) I V
+M3: (IV6 V65) Isus98 ii7 (V V7)
+M4: I (V/IV V42/IV)
+M5: (IV6 V65) Isus98 (V65/V V) V65sus76/V
+M6: (V V42) (I6 I) V (iii vii°6/ii)
+M7: iiIV65 (V6/V V7/V) Vsus98
+M8: I (V/V V7/V) V (V/IV V7/IV)
+M9: (ii vii°6) I6 V7sus43 vi
+M10: I6 V7sus43 I
+

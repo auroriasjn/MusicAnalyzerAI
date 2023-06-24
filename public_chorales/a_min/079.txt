@@ -1,0 +1,51 @@
+M: 3/4
+K: a
+M1: [AC(E,F)C] [ECGC] [GBGD] |
+M2: [CCGE] [CBGE] [DAFD] |
+M3: [EGEC] [FADC] [GGDB] |
+M4: [CGEC]3 |
+M5: [FAFC] [EGGC] [FAFC] |
+M6: [BG#FD] [CAEC] [DBDB] |
+M7: [CCEA] [DBFA] [EBEG#] |
+M8: [ACEA]2 [EG#EB] |
+M9: [A(A,B)EC] [ACEC] [GBGD] |
+M10: [CCGE] [CCG(E,F)] [BDGG] |
+M11: [ACCF] [GEBE] [FFAD] |
+M12: [EBG#E]3 |
+M13: [ACAE] [EC(G,F)E] [CC(G,A)E] |
+M14: [G(D,C)BD] [B(D,E)GD] [AFAD] |
+M15: [G#EBE] [G#EBD] [AEAC] |
+M16: [EEG#B]3 |
+M17: [(E,D)E(G,A)B] [(E,F)E(G,F)B] [GAEC#] |
+M18: [FADD] [EAEC] [DG#FB] |
+M19: [CAEA] [DDFA] [EBEG#] |
+M20: [ACEA]2 [EEG#B] |
+M21: [AEAC] [AFAC] [BDGD] |
+M22: [CCGE] [BCGE] [ACF#E] |
+M23: [BBF#E] [BBG#D#] [BBAD#] |
+M24: [EBG#E]3 |
+---
+M1: i III6 V/III
+M2: III III7 iv
+M3: III6 iv65 V/III
+M4: III
+M5: VI III6 VI
+M6: vii°65 i6 ii°6
+M7: i6 iiø65 V
+M8: i V
+M9: i i V/III
+M10: III III V6/III
+M11: VI6 v iv6
+M12: V
+M13: i III6 III
+M14: V/III V6/III VI6
+M15: V6 V65 i
+M16: V
+M17: ii/iv ii/iv V42/iv
+M18: iv6 i64 vii°43
+M19: i6 iv V
+M20: i V
+M21: i VI6 V6/III
+M22: III III42 vii°65
+M23: Vsus43/V V7
+M24: V

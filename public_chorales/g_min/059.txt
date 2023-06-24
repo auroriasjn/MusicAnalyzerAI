@@ -1,0 +1,27 @@
+M: 4/4
+K: g
+M1: [GB♭DG] |
+M2: [(C,D)B♭(E♭,D)G] [E♭(A,G)CG] [DADF#] [CF#AD] |
+M3: [B♭G(D,E)G] [ACF#A] [GDGB♭] [GDGB♭] |
+M4: [F#E♭AC] [GDGB♭] [DDF#A] [DDF#A] |
+M5: [GDGB♭] [CE♭AC] [B♭(F,E♭)B♭(D,C)] [A♭(D,C)FB♭] |
+M6: [GB♭(G,A)E♭] [G♭(B♭,C)B♭E♭] [F(D,B♭)B♭D] [EGB♭(D♭,C)] |
+M7: [FFB♭C] [F(F,E♭)AC] [B♭DFB♭] [GD(G,F)B♭] |
+M8: [CC(E♭,D)A] [C#B♭EG] [DADF] [(D,C)FA(D,E♭)] |
+M9: [(B♭,C)B♭(D,E♭)F] [(D,B♭)B♭FF] [E♭B♭(F,E♭)G] [FA(E♭,D)F] |
+M10: [GB♭(D,(C,B♭))E♭] [AFCE♭] [B♭FB♭D] [B♭FB♭D] |
+M11: [F#E♭AC] [GDG(B♭,A)] [C#EGA] [D(D,C)F#A] |
+M12: [GBDG]3 |
+---
+M1: i
+M2: iv viiø43 V V42
+M3: i6 vii°6 i i
+M4: vii°7 i V V
+M5: i ii°6 VI V42/VI
+M6: VI6 vi6 (B♭)[III64=I64] vii°7/V
+M7: V7sus43 I vi
+M8: vii°6 vii°7/iii iii iii
+M9: I (I6 I) IVsus98 V7
+M10: ii43sus54 vii° I (g)[I=III]
+M11: vii°7 i V65/V (V V7)
+M12: I

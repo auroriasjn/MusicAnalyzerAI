@@ -1,0 +1,37 @@
+M: 3/4
+K: a
+M1: [ACEA] |
+M2: [ACEA] [GCEA] [F#DAA] |
+M3: [GDGB] [DDGB] [FDGB] |
+M4: [ECGC] [CEGB] [FCFA] |
+M5: [CCEG]3 |
+M6: [CEGC] [CEGC] [BEG#D] |
+M7: [AEAC] [F#DAC] [GDGB] |
+M8: [CEGC]2 [CEGC] |
+M9: [AEAC] [F#DAC] [DDF#C] |
+M10: [GDGB] [EEGB] [C#EGA] |
+M11: [DDGA] [D#BF#B] [EBEG#] |
+M12: [ACEA]2 [FADA] |
+M13: [FBDG] [ECEG] [F#ADA] |
+M14: [GGDB] [F#BDB] [G#DFB] |
+M15: [ACEC] [DDFC] [EDGB] |
+M16: [FCGA] [D#CF#A] [EBEG#] |
+M17: [AC#EA]3 |
+---
+M1: i
+M2: (C)[i=vi] vi42 V6/V
+M3: V V64 V42
+M4: I I7 IV
+M5: I
+M6: I I V43/vi
+M7: vi V65/V V
+M8: I I
+M9: vi V65/V V7
+M10: V iii V65/ii
+M11: (a)[ii=iv] V43/V V
+M12: i iv6
+M13: V42/III III V/VII
+M14: VII V64/V vii°7
+M15: i iv7 v
+M16: vii°7sus43/V V
+M17: I

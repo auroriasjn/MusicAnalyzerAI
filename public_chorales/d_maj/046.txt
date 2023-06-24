@@ -1,0 +1,21 @@
+M: 4/4
+K: D
+M1: [DF#AD] |
+M2: [AE(A,G#)C#] [(A,G#)DF#B] [(A,G)C#EC#] [F#(D,C#)(F#,E)A] |
+M3: [(G,F#)(B,A)DB] [EGEC#] [DAF#D] [(D,E)A(F#,G)D] |
+M4: [F#D(A,G)D] [(F#,G)DF#A] [AC#EA] [(A,G)(C,B)D(F#,G)] |
+M5: [(F#,E)ADA] [(D,C#)AEG] [DADF#] [DA(D,E)F#] |
+M6: [D#AF#B] [(E,D)G#EB] [(C#,B)(A,D)(E,G#)(A,B)] [A(C#,B)AC#] |
+M7: [(F#,E)(A,C#)A(D,C#)] [(D,E)(F#,E)(A,G#)B] [AC#EA] [(B,E)(D,B)(F#,E)D] |
+M8: [A(B,A)(E,F#)C#] [(D,G)(A,G)(F#,E)B] [(G,F#)A(C#,D)A] [(G,F#)(G,A)(B,C#)(B,A)] |
+M9: [(B,G)DD(G,F#)] [(A,A)(A,G)(D,C#)E] [DF#AD] |
+---
+M1: I
+M2: V V7sus23/V (V V42) I6
+M3: IV vii°6 I I
+M4: I6 I6 V (V43/IV IV)
+M5: I6 V65 I (A)[I=IV]
+M6: V65/V (V V42) (I6 vii°6) I
+M7: (IV6 I6) (ii65 V) (D)[I=V] (vi ii)
+M8: Vsus98 (vi65 ii6) (V42 I6) (IV I64)
+M9: (IV6 IV) V7sus43 I

@@ -1,0 +1,60 @@
+M: 4/4
+K: f#
+M1: [(F#,E)AC#F#] |
+M2: [DADF#] [(C#,B)ADF#] [C#(G#,B)C#E#] [(D#,E#)(A,G#)C#(F#,G#)] |
+M3: [F#(F#,B)(C#,F#)A] [C#(C#,B)(F#,E#)G#] [F#AC#F#] [F#C#F#A] |
+M4: [G#B(E,F#)B] [(F#,E)EG#B] [(A,G#)EA(C#,B)] [(F#,E)(E,(D,C#))AA] |
+M5: [DB(A,(G#,F#))B] [EEG#B] [AEAC#] [(A,G#)EAC#] |
+M6: [F#(E,D)AC#] [(G#,F#)D(E#,F#)B] [E#C#G#(C#,B)] [(F#,E)C#F#A] |
+M7: [D#BF#(B,A)] [EBEG#] [BBD#F#] [BB(D#,E#)(F#,G#)] |
+M8: [(F#,E)C#F#A] [(D,C#)DF#A] [BD(G#,F#)B] [C#(C#,B)E#(A,G#)] |
+M9: [D(A,A#)(F#,E)F#] [(C#,B)BDF#] [F#AC#F#] [EG#EB] |
+M10: [AAEC#] [(G#,A)(B,C#)EB] [BD(D,E)(F#,G#)] [(A,B)C#F#A] |
+M11: [C#C#F#(G#,F#)] [C#(C#,B)E#G#] [F#AC#F#] [(F#,G#)AC#F#] |
+M12: [(A,B)AC#F#] [G#C#C#E] [F#(C#,D)DA] [G#(C#,B)DB] |
+M13: [(A,E#)(A,G#)C#(C#,B)] [(F#,C#)AC#A] [(D,B)AF#B] [EG#EB] |
+M14: [AAEC#]2 [BG#BD]2 |
+M15: [C#AEC#] [DAF#(B,(C#,D))] [E(A,F#)EB] [E(G#,D)E(B,A)] |
+M16: [AC#EA]3 [E#C#G#C#] |
+M17: [F#F#(A,G#)(C#,B)] [(F#,F#)(F#,E)F#A] [(G#,A#)(D,C#)F#(B,C#)] [B(B,G#)(F#,E#)D] |
+M18: [F#AF#C#]2 [EB(G#,B)E] [EE(B,A)C#] |
+M19: [EE(A,G#)D] [(E,E)(E,D)(A,G#)(C#,B)] [E(C#,B)(A,B)C#] [E(A,G#)C#C#] |
+M20: [E(F#,G#)(C#,B)D] [F#AA(C#,D)] [G#BE(E,D)] [AAEC#] |
+M21: [DAF#B] [EG#(E,D)B] [AEC#A]2 |
+M22: [(A,B)AEC#] [(C#,A)AEC#] [(D,C#)AF#A] [(D,E)DF#B] |
+M23: [F#C#F#A] [(G#,A)BEG#] [BBEF#] [BBDF#] |
+M24: [C#G#C#E] [(C#,B)(A,B)D(F#,G#)] [AC#EA] [(B,C#)BDF#] |
+M25: [DADF#]3 [A(A,G#)C#E] |
+M26: [(A,G#)F#C#F#] [(F#,E#)BC#G#] [F#AC#A] [(B,C#)B(D,E)G#] |
+M27: [(D,C#)AF#F#] [(B,A)(G#,F#)(G#,A)F#] [B(G#,A)DF#] [C#BC#E#] |
+M28: [F#A#C#F#]3 |
+---
+M1: i
+M2: VI iv7 (V V7) (#viø7 V6)
+M3: (i iv7) V7sus43 i i
+M4: V6/III V/III III III64
+M5: iv65 V/III III III
+M6: VIsus76 (vii°65 iv64) (V6 V65) i
+M7: V6/VII VII V/VII (V/VII vii°64)
+M8: i VI ii°6 V7
+M9: VI iv6 i V/III
+M10: III V6/III iv i6
+M11: V7sus43 i i
+M12: i6 v VI6ret56 vii°6/III
+M13: (III V65) (i i64) (iv65 iv7) V/III
+M14: III vii°6/III
+M15: III6 iv65 Vsus4/III (V/III V7/III)
+M16: III V6
+M17: i i (iiø7 V6/iv) (iv vii°64)
+M18: (A)[i=vi] V I64sus54
+M19: V7sus43 (I V7) I64 I64
+M20: V7 vi (V6 V65) I
+M21: ii65 (V V7) I
+M22: I (I6 I) IV ii6
+M23: vi V6 iisus43
+M24: iii (vi64 vii°6) I ii
+M25: IV I
+M26: (f#)[vi=i] V65 i iiø65
+M27: VI (iiø65 i6) iiø65 V7
+M28: I
+

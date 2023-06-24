@@ -1,0 +1,31 @@
+M: 4/4
+K: D
+M1: [DADF#] |
+M2: [GGDB] [F#ADA] [(B,C#)(B,A)(D,E)G] [DA(E,D)F#] |
+M3: [GBDE] [AAC#E] [DADF#] [C#A#EC#] |
+M4: [(B,C#)B(D,E)D] [(D,E)BF#D] [F#BF#(C#,B)] [F#A#(F#,E)C#] |
+M5: [BBDB]3 |
+M6: [B(B,A)F#D] |
+M7: [E(G,B)(E,G)(C#,B)] [F#(D,C#)(F#,E)A] [(G,F#)(B,A)DB] [E(G,A)GC#] |
+M8: [DBGD] [D(A,G)(F#,E)D] [DAF#D] [DDF#A] |
+M9: [(G,F#)DGB] [(E,D#)CF#A] [(E,F#)BF#G] [(G,A)BEG] |
+M10: [BBD#F#]3 [G#BED] |
+M11: [AAE(C#,D)] [G#BEE] [F#(A,B)(F#,G#)D] [E(C#,A)AC#] |
+M12: [D#F#AB] [EEG#B] [AEAC#] [DA(D,C#)F#] |
+M13: [EG(B,C#)G] [(F#,G)ADF#] [AA(D,B)E] [AAC#A] |
+M14: [DADF#]3 |
+---
+M1: I
+M2: IV I64 (IV6 vii°) I
+M3: ii65 V I vii°6/vi
+M4: vi vi6 V/vi (V/vi V7/vi)
+M5: vi
+M6: vi
+M7: vii°6 I64 IV (vii°6 V43)
+M8: IV64 I I I
+M9: IV vii°/ii ii9 ii6
+M10: V/ii V65/V
+M11: V V6/V (I64 viiø42) V64
+M12: V65/VII V/V V I
+M13: (ii vii°6) I6 Vsus4 V
+M14: I

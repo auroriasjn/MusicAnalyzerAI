@@ -1,0 +1,53 @@
+M: 4/4
+K: G
+M1: [GBGD] |
+M2: [C(C,B)GE] [DAF#(D,C)] [EGG(B,C)] [(B,C)G(D,E)D] |
+M3: [DDF#A]2 [(G,F#)DGB] [EGGC#] |
+M4: [DAF#D]2 [] [BGGD] |
+M5: [C(C,B)GE] [D(A,G)(F#,E)D] [(C,B)(F#,G)D(A,B)] [AC(E,F#)C] |
+M6: [(B,C)DGB] [D(D,C)F#A] [GBDG] [GBDG] |
+M7: [F#AD(A,B)] [(E,F#)(G,A)EC] [GB(D,E)(B,C)] [(F#,E)(A,G)F#D] |
+M8: [(F#,E)A(F#,G)D] [(D,C#)D(F#,E)A] [(B,G)D(D,B)(G,F#)] [A(A,G)C#E] |
+M9: [DF#AD]2 [] [(D,C)F#AD] |
+M10: [(B,C)G(D,E)G] [(B,A)CF#A] [G(D,C)G(B,C)] [(G,F)(B,A)(G,A)D] |
+M11: [E(G#,F#)BD] [AE(B,A)C] [BD#(G,F#)B] [CEEA] |
+M12: [BF#D#B]2 [] [E(G,A)G(B,C)] |
+M13: [BB(F#,G#)D] [(A,G)C#AE] [(F#,E)D(A,G)D] [D(D,C)(F#,E)A] |
+M14: [(G,F#)(B,A)DB] [EGEC#] [DAF#D] [GB(G,F#)D] |
+M15: [CC(E,F#)E] [(B,C)DGD] [DDF#(A,B)] [(E,F#)(G,A)EC] |
+M16: [(G,C)(B,G)(D,E)B] [D(D,C)F#A] [GBDG] [(C,B)CEG] |
+M17: [A(C,B)E(A,B)] [AA(E,F#)C] [E(B,A)G(B,C)] [(B,C)(G,A)GD] |
+M18: [(D,E)(B,C#)GD] [(F#,D)DF#A] [(B,G)D(G,D)(G,F#)] [A(A,G)(D,C#)E] |
+M19: [DF#AD]2 [] [BF#(D,C)D] |
+M20: [E(G,C)(B,E)G] [F#(B,A)(D,C)A] [G(G,A)B(B,C)] [(B,A)(G,A)(B,(C,D))D] |
+M21: [(G#,E)BED] [A(B,A)EC] [(E,D)(G,F#)EB] [(C,B)E(E,D)A] |
+M22: [(C,A)ACE] [DACF#] [GGBG] [DF#DA] |
+M23: [(G,A)GDB] [BGDG] [CG(D,B)E] [C(G,F#)CE] |
+M24: [GGBD] [F#AD(A,(B,C))] [(G,F#)ADB] [(E,D)GEB] |
+M25: [(C,A)GEA] [D((F#,E)F#)(D,C)A] [GDBG] |
+---
+M1: I
+M2: IV V vi I6
+M3: V I vii°6/V
+M4: V I6
+M5: IV V (V42 I6) (ii vii°6)
+M6: I6 (V V7) I I
+M7: V6 (IV6 viiø7) I V6
+M8: V6 V (I6 I) (V/V V7/V)
+M9: V (V V42)
+M10: I6 vii°6 I (I iv/ii)
+M11: V7/ii iisus98 V/vi ii6
+M12: V7/vi vi
+M13: iii (V/V V42/V) V6 (V V7)
+M14: I vii°6/V V I
+M15: IV I6 V (IV6 viiø7)
+M16: I (V V7) I IV
+M17: ii ii vi I6
+M18: iii (V6 V) (I6 I7) V7sus43
+M19: V iii
+M20: (vi IV6) vii° I I6
+M21: (V65/ii V7/ii) iisus98 (V7/ii V42/ii) ii6
+M22: (ii6 ii) V7 I V
+M23: I I6 IV9 IV
+M24: I V6 I vi
+M25: (ii65 ii7) (V V7) I

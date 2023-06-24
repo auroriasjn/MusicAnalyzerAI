@@ -1,0 +1,27 @@
+M: 4/4
+K: a
+M1: [EEG#B] |
+M2: [AEAC] [BDG#B] [CEAA] [(B,A)(D,C)(G#,A)E] |
+M3: [G#BB(E,D)] [A(C,D)(E,F#)C] [EEG#B] [BFG#D] |
+M4: [(C,D)EAC] [E(E,D)G#B] [F#C(A,G)A] [(E,D)DF#(B,(C,D))] |
+M5: [E(G#,A)EC] [E(A,G#)EB] [ACEA] |
+M6: [F#ADA] |
+M7: [(G,A)(G,F#)(D,D#)(B,A)] [EBEG] [(B,A)BD#F#] [(G,F#)(B,A)(E,D#)(E,F#)] |
+M8: [(E,D)B(E,G)G] [CC(F#,E)A] [BF#D#B] [E(E,D)BG] |
+M9: [F(C,D)A(A,B)] [(C,D)EAC] [EEG#B] [(A,B)(E,D)A(C,B)] |
+M10: [(C,D)CEA] [EBEG#] [ACEA] [ACEA] |
+M11: [G#BEE] [(A,G)AEC] [(F,E)AFD] [(D,C#)B♭GE] |
+M12: [D(A,E)(F#,G#)D] [D#F#AC] [EG#EB] |
+---
+M1: V
+M2: i vii°6 i6 (V43 i)
+M3: (V6 V65) i V vii°65
+M4: i6 (V V7) VI ii6
+M5: i64 Vsus43 i
+M6: (e)V/III
+M7: (III vii°6) i iv (i6 vii°6)
+M8: i iv6 V (a)V
+M9: VI i6 V (i ii7)
+M10: i6 V i i
+M11: V6 i VI V7/iv
+M12: iv vii°7/V V

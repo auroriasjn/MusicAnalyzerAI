@@ -1,0 +1,21 @@
+M: 4/4
+K: C
+M1: [CEGC] |
+M2: [GDGB] [D(D,C)F#A] [GBDG] [C(C,B♭)(E,D)G] |
+M3: [(F,E)(A,G)CA] [DFDB] [CGEC] [GBGD] |
+M4: [AC(G,F#)C] [(B,C)DGB] [DDF#A] [GDG(B,C)] |
+M5: [CEGA] [D(D,C)F#A] [GBGG] [ECGC] |
+M6: [DDFB] [CEGC] [GBGD] [GBGD] |
+M7: [C(C,B)GE] [ACF#(D,C)] [GBGD] [ECGG] |
+M8: [F#CDA] [G#BDB] [A(E,F)C(C,D)] [(G#,F#)(G,C)(C,A)(E,F)] |
+M9: [GCGD] [GB(G,F)D] [CGEC] |
+---
+M1: I
+M2: V (V/V V7/V) V (V/IV V7/IV)
+M3: IV vii°6 (G)[I=IV] I
+M4: vii°6sus76 I6 V I
+M5: ii65 (V V7) (C)[I=V] I
+M6: vii°6 I V V
+M7: I V43/V V I6
+M8: V65/V vii°/vi vi (I64 IV)
+M9: V7sus43 I
